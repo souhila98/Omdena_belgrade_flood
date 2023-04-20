@@ -27,7 +27,7 @@ The results and error metrics for the prophet model created are in the tables an
 
 
 ![image](https://user-images.githubusercontent.com/65725230/233374558-5beb480f-cc85-4673-9d8e-52dc67e5cdae.png)
-
+ 
 ![image](https://user-images.githubusercontent.com/65725230/233375544-14dfe019-b26c-45f4-978e-c5e68d411d01.png)
 
 
