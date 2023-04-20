@@ -1,4 +1,4 @@
-Reducing Flood Risks in Belgrade Area through AI Solutions
+# Reducing Flood Risks in Belgrade Area through AI Solutions
 
 This is a collaborative open source project promoted by Omdena Belgrade Chapter.
 
@@ -6,7 +6,7 @@ Belgrade is a city (capital of Serbia) located on the delta of two rivers, the S
 
 Project detailed description: https://omdena.com/chapter-challenges/reducing-floods-risks-in-belgrade-area-through-ai-solutions/
 
-Objectives
+# Objectives
 
 The main objective is the creation of a supervised ML model, based on historical meteorological and hydrological data for the Danube, Sava and other small rivers in the Belgrade area, which will predict possible future floods.
 
