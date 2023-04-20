@@ -1,4 +1,4 @@
-#Reducing Flood Risks in Belgrade Area through AI Solutions
+Reducing Flood Risks in Belgrade Area through AI Solutions
 
 This is a collaborative open source project promoted by Omdena Belgrade Chapter.
 
